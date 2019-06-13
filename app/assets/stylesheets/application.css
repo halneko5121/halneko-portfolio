@@ -35,9 +35,16 @@ footer {
 }
 
 .main-visual {
-    background-color: #26282C;
     color: #FFFFFF;
 }
+
+.main-visual-content {
+    width: 100%;
+    position: absolute;	/*絶対位置*/
+    bottom: 0; 			/*下に固定*/
+    background-color: rgba(38,40,44,0.8);
+}
+
 
 .career {
     background-color: #1E2025;
@@ -92,9 +99,10 @@ footer {
 
 
 .main-visual-image {
-    height: 560px;
+    min-height: 560px;
     width: 100%;
     background-color: #FF0000;
+    object-fit: cover;    
 }
 
 .main-progile-image {
