@@ -33,3 +33,14 @@ footer {
     position: absolute;	/*絶対位置*/
     bottom: 0; 			/*下に固定*/
 }
+
+.main-visual {
+    background-color: #26282C;
+    color: #FFFFFF;
+}
+
+.main-visual-image {
+    height: 560px;
+    width: 100%;
+    background-color: #FF0000;
+}
