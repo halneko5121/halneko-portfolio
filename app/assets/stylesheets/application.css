@@ -34,6 +34,16 @@ footer {
     bottom: 0; 			/*下に固定*/
 }
 
+/* リンク時の色変え */
+h2 a:link { color: #000000; }
+h2 a:visited { color: #000000; }
+h2 a:hover { color: #000000; }
+h2 a:active { color: #000000; }
+.career h2 a:link, .hobby h2 a:link, .skill h2 a:link { color: #FFFFFF; }
+.career h2 a:visited, .hobby h2 a:visited, .skill h2 a:visited { color: #FFFFFF; }
+.career h2 a:hover, .hobby h2 a:hover, .skill h2 a:hover { color: #FFFFFF; }
+.career h2 a:active, .hobby h2 a:active, .skill h2 a:active { color: #FFFFFF; }
+
 .main-visual {
     color: #FFFFFF;
 }
