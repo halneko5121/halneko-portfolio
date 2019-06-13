@@ -64,6 +64,18 @@ footer {
     color: #FFFFFF;
 }
 
+.hobby {
+    background-color: #1E2025;
+    color: #FFFFFF;
+}
+
+.hobby-item {
+    background-color: #26282D;
+    color: #FFFFFF;
+    align-items: center;    
+}
+
+
 
 
 .works-box {
