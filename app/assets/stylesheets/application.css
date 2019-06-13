@@ -54,15 +54,17 @@ footer {
     color: #FFFFFF;
 }
 
-
-
-.career-box {
-	padding       : 10px;                 /* 文字の位置合わせ     */
-	background    : #ffcc99;              /* BOXの背景色          */
-	border        : 3px dotted #7f4600;   /* 枠線の指定           */
-	border-radius : 4px;                  /* 角丸の指定           */
-	box-shadow    : 0 0 0 2px #ffcc99;    /* 影を利用した外余白   */
+.works {
+    background-color: #DBC7BE;
+    color: #000000;
 }
+
+.works-item {
+    background-color: #1E2025;
+    color: #FFFFFF;
+}
+
+
 
 .works-box {
 	padding       : 27px;                 /* 文字の位置合わせ     */
