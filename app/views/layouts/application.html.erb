@@ -24,31 +24,33 @@
       <header>
         <%= render 'layouts/header' %>
       </header>
-      <div class="main-visual">
-        <%= render 'homes/main_visual' %>
+      <div class="container">
+        <div class="main-visual">
+          <%= render 'homes/main_visual' %>
+        </div>
+        <div class="profile">
+          <%= render 'homes/profile' %>
+        </div>
+        <div class="career">
+          <%= render 'homes/career' %>
+        </div>
+        <div class="works">
+          <%= render 'homes/works' %>
+        </div>
+        <div class="hobby">
+          <%= render 'homes/hobby' %>
+        </div>
+        <div class="study">
+          <%= render 'homes/study' %>
+        </div>
+        <div class="skill">
+          <%= render 'homes/skill' %>
+        </div>
+        <div class="tools">
+          <%= render 'homes/tools' %>
+        </div>
+        <%= yield %>
       </div>
-      <div class="profile">
-        <%= render 'homes/profile' %>
-      </div>
-      <div class="career">
-        <%= render 'homes/career' %>
-      </div>
-      <div class="works">
-        <%= render 'homes/works' %>
-      </div>
-      <div class="hobby">
-        <%= render 'homes/hobby' %>
-      </div>
-      <div class="study">
-        <%= render 'homes/study' %>
-      </div>
-      <div class="skill">
-        <%= render 'homes/skill' %>
-      </div>
-      <div class="tools">
-        <%= render 'homes/tools' %>
-      </div>
-      <%= yield %>
       <footer>
         <%= render 'layouts/footer' %>
       </footer>
