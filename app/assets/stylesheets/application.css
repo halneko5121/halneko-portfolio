@@ -49,7 +49,7 @@ h2 a:active { color: #000000; }
 }
 
 .main-visual-content {
-    width: 100%;
+    width: 98%;
     position: absolute;	/*絶対位置*/
     bottom: 0; 			/*下に固定*/
     background-color: rgba(38,40,44,0.8);
