@@ -63,6 +63,10 @@ h2 a:active { color: #000000; }
     background-color: #1E2025;
     color: #FFFFFF;
 }
+.career-item {
+    background-color: #606060;
+    color: #FFFFFF;
+}
 
 .works {
     background-color: #DBC7BE;
@@ -70,7 +74,7 @@ h2 a:active { color: #000000; }
 }
 
 .works-item {
-    background-color: #1E2025;
+    background-color: #606060;
     color: #FFFFFF;
 }
 
@@ -80,7 +84,7 @@ h2 a:active { color: #000000; }
 }
 
 .hobby-item {
-    background-color: #26282D;
+    background-color: #606060;
     color: #FFFFFF;
     align-items: center;    
 }
@@ -91,7 +95,7 @@ h2 a:active { color: #000000; }
 }
 
 .study-item {
-    background-color: #1E2025;
+    background-color: #606060;
     color: #FFFFFF;
 }
 
