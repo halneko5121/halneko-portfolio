@@ -66,6 +66,8 @@ h2 a:active { color: #000000; }
 .career-item {
     background-color: #606060;
     color: #FFFFFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
 }
 
 .works {
@@ -76,6 +78,8 @@ h2 a:active { color: #000000; }
 .works-item {
     background-color: #606060;
     color: #FFFFFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
 }
 
 .hobby {
@@ -87,6 +91,8 @@ h2 a:active { color: #000000; }
     background-color: #606060;
     color: #FFFFFF;
     align-items: center;    
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
 }
 
 .study {
@@ -97,6 +103,8 @@ h2 a:active { color: #000000; }
 .study-item {
     background-color: #606060;
     color: #FFFFFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
 }
 
 .skill {
