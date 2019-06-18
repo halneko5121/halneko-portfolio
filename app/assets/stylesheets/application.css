@@ -113,7 +113,7 @@ h2 a:active { color: #000000; }
 }
 
 .skill-box {
-	padding       : 27px;                 /* 文字の位置合わせ     */
+	padding       : 20px;                 /* 文字の位置合わせ     */
 	background    : #ffcc99;              /* BOXの背景色          */
 	border        : 3px dotted #7f4600;   /* 枠線の指定           */
 	border-radius : 4px;                  /* 角丸の指定           */
